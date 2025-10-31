@@ -1,5 +1,4 @@
 # DSC180A-Methodology-3
 
-Fong Vo
+Fong Vo and Eunice Cho
 
-fvo@ucsd.edu
